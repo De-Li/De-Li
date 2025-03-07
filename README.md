@@ -31,6 +31,7 @@ I am embedded system software developer from Taiwan🇹🇼
 </div>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De-Li)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
